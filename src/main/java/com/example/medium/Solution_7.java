@@ -1,4 +1,4 @@
-package com.example.easy;
+package com.example.medium;
 
 public class Solution_7 {
     public int reverse(int x) {
